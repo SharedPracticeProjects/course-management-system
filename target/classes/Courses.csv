@@ -1,0 +1,30 @@
+Course Number ,Course Name ,Course Description ,Number of Credits ,Required Books ,Pre-Req’s,Department
+MGMT103,Intro to Business,The first business class you take freshman year ,10,Business 101 ,N/A,Business
+MGMT105,Business Studies,Freshman year business course,10,Business 101,N/A,Business
+MGMT110,Management Studies,Freshman year business course on management,10,Business 101,N/A,Business
+MATH201,Introductory Algebra,First class in algebraic theory,10,Algebra Fundamentals,MATH101,Mathematics
+MATH101,Pre-Algebra,Very first class in algebraic theory,10,Pre Algebra Fundamentals,N/A,Mathematics
+MATH210,Introductory Calculus,First class in calculus,10,Calculus Fundamentals,MATH101,Mathematics
+MATH301,Introduction to Statistics,First class in Statistics,10,Statistics Fundamentals,MATH101,Mathematics
+MATH220,Calculus I,Second calculus course,20,Calculus I,MATH210,Mathematics
+MATH220,Calculus II,Third calculus course,20,Calculus II,MATH220,Mathematics
+LAW101,Introduction to Legal Study,First introductory law course,10,Legal Study: An Introduction,N/A,Law
+LAW125,Obligations 1A,First obligations law course,15,Obligations:An Introduction,N/A,Law
+LAW135,Obligations 1B,Second semester freshman year obligations law course,15,Obligations:An Introduction,LAW125,Law
+LAW154,Family Law,First family law course,10,Family Law,N/A,Law
+ENG512,Introduction to Engineering,First Engineering course freshmen take,20,Engineering: An Introduction,N/A,Engineering
+ENG553,Introduction to Design,First design course engineers take,15,Engineering Design: An Introduction,N/A,Engineering
+ENG587,Electrical Circuits,Beginner circuit course,10,Electrical Engineering 101,ENG512,Engineering
+ENG539,Dynamics,Beginning dynamics course,10,Engineering Mechanics Dynamics,ENG512,Engineering
+HIST321,Europe in the 20th Century,European history in the 20th Century,15,The Oxford History of Modern Europe,N/A,History
+HIST356,Renaissance and Reformations,Renaissance and Reformations course,20,The Renaissance and the Reformation:A Textbook Of European History 1494-1610,N/A,History
+HIST375,Vikings,All about Vikings course,10,Vikings: A History of the Northmen,N/A,History
+HIST389,Communist Russia,Learn more about communist Russian under Stalin and Lenin,15,Communist Russia Under Lenin and Stalin,N/A,History
+ECON874,Introduction to Market Mechanism,First economics course to introduce market mechanisms,10,Market Mechanism 101,N/A,Economics
+ECON843,International Trade,First semester course on international trade,15,International Trade:An Introduction,N/A,Economics
+ECON865,Economic Development,Second semester course about economic development,15,Economic Development A Case Study,ECON874,Economics
+ECON891,Macroeconomics,First macroeconomics course economics student take,20,Macroeconomics,ECON874,Economics
+LANG999,Beginner Ukrainian,First introduction to Ukrainian:Slava Ukraini,10,Colloquial Ukrainian:The Complete Course for Beginners,N/A,Languages
+LANG973,Beginner Spanish,First introduction to Spanish,10,EasySpanish Step-by-Step,N/A,Languages
+LANG963,Intermediate Portuguese,Intermediate Portuguese lessons,15,Ultimate Portuguese,LANG962,Languages
+LANG931,Advanced Japanese,Course for those with previous knowledge of Japanese focusing on grammar,20,Tobira Gateway to Advanced Japanese,LANG932,Languages
